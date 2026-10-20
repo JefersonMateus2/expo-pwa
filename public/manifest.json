@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Expo PWA - Cadastro de Usuários",
+  "short_name": "Expo PWA",
+  "description": "Aplicativo de demonstração para cadastro de usuários.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
